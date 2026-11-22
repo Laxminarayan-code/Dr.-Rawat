@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">CytoCount</string>
+    <string name="app_subtitle">Hemocytometer &amp; Seeding Planner</string>
+
+    <!-- Navigation -->
+    <string name="nav_count">Count</string>
+    <string name="nav_seed">Seed</string>
+    <string name="nav_guide">Guide</string>
+
+    <!-- Top Bar Actions -->
+    <string name="action_toggle_theme">Toggle darkroom display mode</string>
+    <string name="action_reset_count">Reset cell count</string>
+
+    <!-- Count Screen -->
+    <string name="label_stock_concentration">Stock Concentration</string>
+    <string name="label_total_cells">Total Cells in Volume</string>
+    <string name="label_cells_per_ml">cells/mL</string>
+    <string name="label_cells_per_ul">cells/µL</string>
+    <string name="label_viability">Viability</string>
+    <string name="label_avg_per_square">Avg / square</string>
+    <string name="btn_plan_seeding">Plan Plate Seeding</string>
+    <string name="mode_quick_total">Total Count</string>
+    <string name="mode_quadrant_grid">4-Quadrant Grid</string>
+    <string name="section_hemocytometer_input">Hemocytometer Count</string>
+    <string name="section_suspension_params">Suspension Parameters</string>
+    <string name="label_total_cells_counted">Cells Counted</string>
+    <string name="label_squares_counted">Large Squares (1 mm²)</string>
+    <string name="label_dilution_factor">Dilution Factor (DF)</string>
+    <string name="label_suspension_volume">Total Suspension Volume (mL)</string>
+    <string name="label_trypan_viability">Trypan Blue Viability (Optional)</string>
+    <string name="label_dead_cells_counted">Blue / Dead Cells Counted</string>
+    <string name="label_formula_check">Formula Verification</string>
+    <string name="hint_enter_count">Enter hemocytometer count to calculate concentration and total cells.</string>
+
+    <!-- Seed Screen -->
+    <string name="section_stock_source">Cell Stock Source</string>
+    <string name="label_synced_from_count">Synced from Count</string>
+    <string name="label_manual_stock">Manual Override</string>
+    <string name="btn_edit_stock">Edit</string>
+    <string name="btn_use_counted_stock">Use Counted</string>
+    <string name="section_plate_format">Culture Plate Format</string>
+    <string name="section_density_suggestion">Experimental Density Suggestion</string>
+    <string name="section_well_setup">Wells &amp; Pipetting Setup</string>
+    <string name="label_wells_to_seed">Wells to Seed</string>
+    <string name="label_volume_per_well">Working Volume / Well (mL)</string>
+    <string name="label_overage_margin">Pipetting Extra Margin</string>
+    <string name="section_seeding_recipe">Master Mix Recipe</string>
+    <string name="label_take_cell_suspension">Cell Suspension</string>
+    <string name="label_add_fresh_media">Fresh Media</string>
+    <string name="label_total_master_mix">Total Master Mix</string>
+    <string name="label_total_cells_required">Total Cells Needed</string>
+    <string name="btn_copy_recipe">Copy Protocol</string>
+    <string name="msg_recipe_copied">Seeding protocol copied to clipboard</string>
+    <string name="btn_adjust_max_wells">Adjust to Max Wells</string>
+    <string name="status_ready">Ready to Seed</string>
+    <string name="status_centrifuge">Centrifuge &amp; Resuspend</string>
+    <string name="status_insufficient">Insufficient Cells</string>
+    <string name="status_awaiting_stock">Enter Stock Count</string>
+
+    <!-- Guide Screen -->
+    <string name="guide_hero_title">Cell Culture Reference</string>
+    <string name="guide_hero_subtitle">Neubauer counting rules &amp; standard multi-well seeding densities</string>
+    <string name="section_plate_reference">Multi-Well Seeding Matrix</string>
+    <string name="section_neubauer_rules">Neubauer Counting Guidelines</string>
+    <string name="cd_lab_banner">Microscope view of cells on a glass hemocytometer grid</string>
+    <string name="cd_plate_visual">Visual diagram of multi-well plate layout</string>
+
+    <!-- About Section -->
+    <string name="section_about">About CytoCount</string>
+    <string name="about_developer_label">Developer</string>
+    <string name="about_developer_name">Laxminarayan Rawat, PhD</string>
+    <string name="about_developer_affiliation">Scientist at Harvard Medical School</string>
+    <string name="about_version_label">Version</string>
+    <string name="about_package_label">Package ID</string>
+    <string name="about_tagline">Precision hemocytometer cell counting &amp; multi-well plate seeding calculator.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CytoCount",
+  "description": "Hemocytometer cell counting calculator and multi-well plate seeding volume planner for cell culture experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
